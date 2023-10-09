@@ -1,4 +1,7 @@
-Hello, Hola, Привет 👋
+# Hello, Hola, Привет 👋
+### I'm system analyst from Russia
+
+🌱 I’m currently learning python
 
 ![](https://komarev.com/ghpvc/?username=SirLancevrotVI)
 
